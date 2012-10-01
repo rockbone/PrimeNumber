@@ -17,3 +17,5 @@ sub is_prime {
     }
     return 1;
 }
+
+1;
